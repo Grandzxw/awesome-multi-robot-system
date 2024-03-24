@@ -7,13 +7,13 @@ Recent multi-robot projects and papers: Including SLAM, datasets, place recognit
 
   - [Multi-robot Datasets](#Multi-robot-Datasets)
 
-  - [Multi-robot SLAM](#Multi-robot SLAM)
+  - [Multi-robot SLAM](#Multi-robot-SLAM)
     - [Visual-Based](#Visual-Based)
     - [Lidar-Based](#Lidar-Based)
     
-  - [Multi-robot Place Recognition](#Multi-robot Place Recognition)
+  - [Multi-robot Place Recognition](#Multi-robot-Place-Recognition)
   
-  - [Multi-robot LLM navigation](#Multi-robot LLM navigation)
+  - [Multi-robot LLM navigation](#Multi-robot-LLM-navigation)
 
   - [Citation](#citation)
 
