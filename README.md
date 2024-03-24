@@ -10,6 +10,7 @@ Recent multi-robot projects and papers: Including SLAM, datasets, place recognit
   - [Multi-robot SLAM](#Multi-robot-SLAM)
     - [Visual-Based](#Visual-Based)
     - [Lidar-Based](#Lidar-Based)
+    - [Distributed-Optimization](#Distributed-Optimization)
     
   - [Multi-robot Place Recognition](#Multi-robot-Place-Recognition)
   
@@ -33,6 +34,10 @@ Recent multi-robot projects and papers: Including SLAM, datasets, place recognit
 - **DCL-SLAM**: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm, *IEEE SENSORS JOURNAL, 2024*.[[Paper](https://ieeexplore.ieee.org/document/10375928)] [[Code](https://github.com/PengYu-Team/DCL-SLAM)]
 
 
+### Distributed-Optimization
+- **DCL-SLAM**: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm, *IEEE SENSORS JOURNAL, 2024*.[[Paper](https://ieeexplore.ieee.org/document/10375928)] [[Code](https://github.com/PengYu-Team/DCL-SLAM)]
+
+
 ## Multi-robot Place Recognition
 
 - Descriptor Distillation for Efficient Multi-Robot SLAM, *ICRA 2023*. [[Paper](https://arxiv.org/pdf/2303.08420.pdf)]
@@ -40,7 +45,7 @@ Recent multi-robot projects and papers: Including SLAM, datasets, place recognit
   
 ## Multi-robot LLM navigation
 
-- **Co-NavGPT**: Multi-Robot Cooperative Visual Semantic Navigation using Large Language Models, *2023*. [[Paper](https://arxiv.org/pdf/2310.07937.pdf)] [[Webpage](https://sites.google.com/view/co-navgpt)]
+- Distributed Pose-graph Optimization with Multi-level Partitioning for Collaborative SLAM, *2024*. [[Paper](https://arxiv.org/pdf/2401.01657.pdf)] [[Code](https://github.com/tjcunhao/dpo)]
 
 
 
