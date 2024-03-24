@@ -35,6 +35,9 @@ Recent multi-robot projects and papers: Including SLAM, datasets, place recognit
 
 ## Multi-robot Place Recognition
 
+- Descriptor Distillation for Efficient Multi-Robot SLAM, *ICRA 2023*. [[Paper](https://arxiv.org/pdf/2303.08420.pdf)]
+
+  
 ## Multi-robot LLM navigation
 
 - **Co-NavGPT**: Multi-Robot Cooperative Visual Semantic Navigation using Large Language Models, *2023*. [[Paper](https://arxiv.org/pdf/2310.07937.pdf)] [[Webpage](https://sites.google.com/view/co-navgpt)]
