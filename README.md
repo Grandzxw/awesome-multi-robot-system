@@ -27,7 +27,10 @@ Recent multi-robot projects and papers: Including SLAM, datasets, place recognit
 ## Multi-robot SLAM
 
 ### Visual-Based
+
+
 ### Lidar-Based
+- **DCL-SLAM**: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm, *IEEE SENSORS JOURNAL, 2024*.[[Paper](https://ieeexplore.ieee.org/document/10375928)] [[Code](https://github.com/PengYu-Team/DCL-SLAM)]
 
 
 ## Multi-robot Place Recognition
