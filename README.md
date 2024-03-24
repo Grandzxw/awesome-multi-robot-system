@@ -22,6 +22,8 @@ Recent multi-robot projects and papers: Including SLAM, datasets, place recognit
 
 ## Multi-robot Datasets
 
+- **SubT-MRS Dataset**: Pushing SLAM Towards All-weather Environments, *ICCV 2023*. [[Paper](https://arxiv.org/pdf/2307.07607.pdf)] [[Webpage](https://superodometry.com/datasets)]
+
 ## Multi-robot SLAM
 
 ### Visual-Based
