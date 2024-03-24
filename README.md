@@ -50,6 +50,7 @@ If you find this repository useful, please consider citing this list:
     title = {awesome-multi-robot-system},
     author = {Xiongwei Zhao},
     journal = {GitHub repository},
+    email = {grandzhaoxw@gmail.com},
     url = {https://github.com/Grandzxw/awesome-multi-robot-system},
     year = {2024},
 }
