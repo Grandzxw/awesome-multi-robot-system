@@ -5,7 +5,7 @@ Recent multi-robot projects and papers: Including SLAM, datasets, place recognit
 ---
 ## Overview
 
-  - [Multi-robot Datasets](#Multi-robot Datasets)
+  - [Multi-robot Datasets](#Multi-robot-Datasets)
 
   - [Multi-robot SLAM](#Multi-robot SLAM)
     - [Visual-Based](#Visual-Based)
