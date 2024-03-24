@@ -1,5 +1,5 @@
 # awesome-multi-robot-system [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-Recent multi-robot projects and papers: Including SLAM, datasets, place recognition, LLM navigation, etc. Welcome to contribute together!
+Recent multi-robot projects and papers: Including SLAM, datasets, place recognition, Large Language Models navigation, etc. Welcome to contribute together!
 
 
 ---
