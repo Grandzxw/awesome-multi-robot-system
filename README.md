@@ -43,6 +43,8 @@ Recent multi-robot projects and papers: Including SLAM, datasets, place recognit
 ## Multi-robot Place Recognition
 
 - Descriptor Distillation for Efficient Multi-Robot SLAM, *ICRA 2023*. [[Paper](https://arxiv.org/pdf/2303.08420.pdf)]
+- **RecNet**: An Invertible Point Cloud Encoding through Range Image Embeddings for Multi-Robot Map Sharing and Reconstruction, *2024*.[[Paper](https://arxiv.org/pdf/2402.02192.pdf)] [[Webpage](https://www.youtube.com/watch?v=f9BnK34XkuQ)]
+
 
   
 ## Multi-robot LLM navigation
