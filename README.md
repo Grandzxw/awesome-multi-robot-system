@@ -28,15 +28,16 @@ Recent multi-robot projects and papers: Including SLAM, datasets, place recognit
 ## Multi-robot SLAM
 
 ### Visual-Based
+- **maplab 2.0**: A Modular and Multi-Modal Mapping Framework, *IEEE RA-L 2023*.[[Paper](https://arxiv.org/pdf/2212.00654.pdf)] [[Code](https://github.com/ethz-asl/maplab)]
 
 
 ### Lidar-Based
-- **DCL-SLAM**: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm, *IEEE SENSORS JOURNAL, 2024*.[[Paper](https://ieeexplore.ieee.org/document/10375928)] [[Code](https://github.com/PengYu-Team/DCL-SLAM)]
+- **DCL-SLAM**: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm, *IEEE SENSORS JOURNAL 2024*.[[Paper](https://ieeexplore.ieee.org/document/10375928)] [[Code](https://github.com/PengYu-Team/DCL-SLAM)]
 
 
 ### Distributed-Optimization
 - Distributed Pose-graph Optimization with Multi-level Partitioning for Collaborative SLAM, *2024*. [[Paper](https://arxiv.org/pdf/2401.01657.pdf)] [[Code](https://github.com/tjcunhao/dpo)]
-- Loop Closure Prioritization for Efficient and Scalable Multi-Robot SLAM, *IEEE RA-L 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9830830/)]
+- Loop Closure Prioritization for Efficient and Scalable Multi-Robot SLAM, *IEEE RA-L 2022*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9830830/)]
 
 
 ## Multi-robot Place Recognition
