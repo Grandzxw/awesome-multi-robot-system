@@ -39,6 +39,8 @@ Recent multi-robot projects and papers: Including SLAM, datasets, place recognit
 
 
 ### Distributed-Optimization
+- Distributed Trajectory Estimation with Privacy and Communication Constraints: a Two-Stage Distributed Gauss-Seidel Approach, *ICRA 2016*. [[Paper](https://ieeexplore.ieee.org/abstract/document/7487736)] [[Code](https://github.com/CogRob/distributed-mapper)]
+- Distributed Mapping with Privacy and Communication Constraints: Lightweight Algorithms and Object-based Models, *CoRR 2017*.  [[Paper](http://arxiv.org/abs/1702.03435)] [[Code](https://github.com/CogRob/distributed-mapper)]
 - Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM With Two-Stage Global-Local Graph Optimization, *2022*. [[Paper](https://ieeexplore.ieee.org/document/9662965)] [[Code](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM)]
 - Loop Closure Prioritization for Efficient and Scalable Multi-Robot SLAM, *IEEE RA-L 2022*. [[Paper](https://ieeexplore.ieee.org/abstract/document/9830830/)]
 - Distributed Pose-graph Optimization with Multi-level Partitioning for Collaborative SLAM, *2024*. [[Paper](https://arxiv.org/pdf/2401.01657.pdf)] [[Code](https://github.com/tjcunhao/dpo)]
