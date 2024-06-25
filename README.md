@@ -72,9 +72,9 @@ If you find this repository useful, please consider citing this list:
 ```
 @misc{grand2024awesomemultirobotpaperlist,
     title = {awesome-multi-robot-system},
-    author = {Xiongwei Zhao, Zhixing Song, Juwon Kim},
+    author = {Xiongwei Zhao, Zhixing Song, Juwon Kim, Gilhwan Kang},
     journal = {GitHub repository},
-    email = {grandzhaoxw@gmail.com, 504115681@qq.com, lambertkim317@gmail.com},
+    email = {grandzhaoxw@gmail.com, 504115681@qq.com, lambertkim317@gmail.com, rlfghks527@gmail.com},
     url = {https://github.com/Grandzxw/awesome-multi-robot-system},
     year = {2024},
 }
