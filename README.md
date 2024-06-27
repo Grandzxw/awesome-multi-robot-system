@@ -56,6 +56,7 @@ Recent multi-robot projects and papers: Including SLAM, datasets, place recognit
 - **RecNet**: An Invertible Point Cloud Encoding through Range Image Embeddings for Multi-Robot Map Sharing and Reconstruction, *2024*.[[Paper](https://arxiv.org/pdf/2402.02192.pdf)] [[Webpage](https://www.youtube.com/watch?v=f9BnK34XkuQ)]
 - Descriptor Distillation for Efficient Multi-Robot SLAM, *ICRA 2023*. [[Paper](https://arxiv.org/pdf/2303.08420.pdf)]
 - Loop Closure Prioritization for Efficient and Scalable Multi-Robot SLAM, *IEEE RA-L 2022*. [[Paper](https://ieeexplore.ieee.org/document/9830830)] [[Code](https://github.com/NeBula-Autonomy/LAMP)]
+- SlideSLAM: Sparse, Lightweight, Decentralized Metric-Semantic SLAM for Multi-Robot Navigation, *arXiv*. [[Paper](https://arxiv.org/abs/2406.17249)] [[Code](https://github.com/XuRobotics/slide-slam)]
 
 
 
@@ -74,7 +75,7 @@ If you find this repository useful, please consider citing this list:
     title = {awesome-multi-robot-system},
     author = {Xiongwei Zhao, Zhixing Song, Juwon Kim, Gilhwan Kang},
     journal = {GitHub repository},
-    email = {grandzhaoxw@gmail.com, 504115681@qq.com, lambertkim317@gmail.com, rlfghks527@gmail.com},
+    email = {grandzhaoxw@gmail.com, szx504115681@gmail.com, lambertkim317@gmail.com, rlfghks527@gmail.com},
     url = {https://github.com/Grandzxw/awesome-multi-robot-system},
     year = {2024},
 }
