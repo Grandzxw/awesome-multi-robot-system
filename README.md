@@ -25,7 +25,7 @@ Recent multi-robot projects and papers: Including SLAM, datasets, place recognit
 
 - **SubT-MRS Dataset**: Pushing SLAM Towards All-weather Environments, *CVPR, 2024*. [[Paper](https://arxiv.org/pdf/2307.07607.pdf)] [[Webpage](https://superodometry.com/datasets)]
 - **DiSCO-SLAM Dataset**: - [The Park Dataset](https://drive.google.com/file/d/1-2zsRSB_9ORQ9WQdtUbGdoS4YXU3cBQt/view?usp=sharing) , [KITTI 08 Dataset](https://drive.google.com/file/d/1U6z_1VHlPJa_DJ2i8VwxkKLjf5JxMo0f/view?usp=sharing)
-
+- **DiTER++ Dataset** - Diverse Terrain and Multi-modal Dataset for Multi-Robot Navigation in Multi-session Outdoor Environments, [[Webpage](https://sites.google.com/view/diter-plusplus)]
 
 ## Multi-robot SLAM
 
