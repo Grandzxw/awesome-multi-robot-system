@@ -34,6 +34,7 @@ Recent multi-robot projects and papers: Including SLAM, datasets, place recognit
 
 
 ### Lidar-Based
+- **Multi S-Graphs**: An Efficient Distributed Semantic-Relational Collaborative SLAM, *IEEE RA-L 2024*. [[Paper](https://ieeexplore.ieee.org/document/10529513)] [[Code](https://github.com/snt-arg/multi_s_graphs)]
 - **Swarm-SLAM**: Sparse Decentralized Collaborative Simultaneous Localization and Mapping Framework for Multi-Robot Systems, *RA-L 2024*. [[Paper](https://ieeexplore.ieee.org/document/10321649)] [[Code](https://github.com/MISTLab/Swarm-SLAM)]
 - **DCL-SLAM**: A Distributed Collaborative LiDAR SLAM Framework for a Robotic Swarm, *IEEE SENSORS JOURNAL 2024*. [[Paper](https://ieeexplore.ieee.org/document/10375928)] [[Code](https://github.com/PengYu-Team/DCL-SLAM)]
 - **CoLRIO**: LiDAR-Ranging-Inertial Centralized State Estimation for Robotic Swarms, *ICRA 2024*. [[Paper](https://arxiv.org/abs/2402.11790)] [[Code](https://github.com/PengYu-Team/Co-LRIO)]
